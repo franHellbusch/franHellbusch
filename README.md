@@ -1,62 +1,87 @@
-<h1 align="center"># Hi there, I'm Francisco Hellbusch! 👋</h1>
+<h1 align="center">Hi, I'm Francisco Hellbusch 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhdeveloper/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franHellbusch)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-francisco-hellbusch.vercel.app/)
+<p align="center">
+  <b>Full Stack Developer · NestJS · Next.js · TypeScript · Arquitectura Hexagonal · DDD</b>
+</p>
 
-I'm a passionate Full-Stack Developer committed to crafting exceptional digital experiences. With a strong foundation in both frontend and backend development, I can collaborate seamlessly on all aspects of web application development. My expertise in React enables me to build engaging and efficient user interfaces, while my proficiency in Node.js allows me to optimize application performance and scalability.
-
----
-
-### 🚀 What I Do
-
-* **Full-Stack Development:** I excel in developing comprehensive web applications, handling everything from user interfaces to server-side logic and databases.
-* **Backend Specialization:** I have strong experience in backend development, including creating efficient and secure solutions for high-volume systems and API development with Node.js and Express.
-* **Frontend Expertise:** I build engaging and efficient user interfaces using React, along with other modern frontend technologies like HTML, CSS, and JavaScript.
-* **Technical Instruction:** I have a proven track record of teaching Full-Stack development to groups of students, guiding them through practical exercises and fostering collaboration.
-
----
-
-### 🛠️ Technologies & Tools
-
-<h3 align="left">Frontend:</h3>
-<a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://styled-components.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
-<h3 align="left">Backend:</h3>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<h3 align="left">Version Control & Project Management:</h3>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/franHellbusch" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
-
-<h3 align="left">Testing & Automation:</h3>
-<a href="https://jestjs.io" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-
-<h3 align="left">Infrastructure & Deployment:</h3>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fhdeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/franHellbusch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://domit.app">
+    <img src="https://img.shields.io/badge/Domit.app-0D7377?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://flairmoon.com.ar">
+    <img src="https://img.shields.io/badge/FlairMoon-e91e8c?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💬 Let's Connect!
+Desarrollador Full Stack con foco en arquitectura de software y proyectos de producción reales. Diseño y construyo sistemas completos — desde el modelo de dominio hasta el deploy — aplicando Arquitectura Hexagonal y DDD de forma consistente. Actualmente instructor Full Stack en Henry y desarrollador freelance con dos proyectos propios en producción.
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+---
 
-* **Email:** fghellbusch@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/fhdeveloper/](https://www.linkedin.com/in/fhdeveloper/)
-* **Portfolio:** [https://portfolio-francisco-hellbusch.vercel.app/](https://portfolio-francisco-hellbusch.vercel.app/)
+### 🚀 Lo que hago
+
+- **Arquitectura de software:** Diseño sistemas con Arquitectura Hexagonal y DDD — domain en TypeScript puro, sin dependencias de frameworks, habilitando testing aislado y mantenibilidad a largo plazo.
+- **Backend:** APIs REST con NestJS, Prisma y PostgreSQL. Autenticación JWT, RBAC, transacciones atómicas, multi-tenancy aplicado arquitectónicamente.
+- **Frontend:** Interfaces con Next.js 15 (ISR/SSR/SPA según el caso), React 19, TanStack Query, Zustand y Tailwind CSS.
+- **Monorepos:** Turborepo con paquetes compartidos (domain, database, ui) consumidos por múltiples apps.
+- **Instrucción técnica:** Instructor Full Stack en Henry desde sep 2024, grupos de hasta 40 participantes.
+
+---
+
+### 🛠️ Stack
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Arquitectura & Tooling**
+
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🏗️ Proyectos destacados
+
+**[Domit](https://domit.app) — SaaS Inmobiliario Multi-tenant**
+Plataforma SaaS B2B para inmobiliarias. API NestJS con Arquitectura Hexagonal estricta, aislamiento de tenant aplicado arquitectónicamente, RBAC multi-rol, provisioning atómico y CI/CD con Vercel. Web pública ISR por tenant + backoffice SPA. 156 tests unitarios sin base de datos.
+`NestJS` `Prisma` `PostgreSQL` `Next.js 15` `TypeScript strict` `Turborepo` `Vercel`
+
+**[FlairMoon](https://flairmoon.com.ar) — E-Commerce de Producción**
+E-commerce full-stack para marca de maquillaje y skincare. Arquitectura Hexagonal + DDD, checkout atómico en transacción Prisma, cotización de envío en tiempo real via Correo Argentino, ISR para SEO, panel de administración completo. +200 tests. Deploy en Railway + Vercel.
+`NestJS` `Prisma` `Next.js 15` `React 19` `Turborepo` `Railway` `Vercel` `Cloudinary`
+
+---
+
+### 📬 Contacto
+
+- **Email:** fghellbusch@gmail.com
+- **LinkedIn:** [linkedin.com/in/fhdeveloper](https://www.linkedin.com/in/fhdeveloper/)
