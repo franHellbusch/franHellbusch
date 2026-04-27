@@ -1,37 +1,27 @@
-<h1 align="center">Hi, I'm Francisco Hellbusch 👋</h1>
+# Hi, I'm Francisco Hellbusch 👋
 
-<p align="center">
-  <b>Full Stack Developer · NestJS · Next.js · TypeScript · Arquitectura Hexagonal · DDD</b>
-</p>
+**Full Stack Developer · NestJS · Next.js · TypeScript · Arquitectura Hexagonal · DDD**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fhdeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/franHellbusch">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://domit.app">
-    <img src="https://img.shields.io/badge/Domit.app-0D7377?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://flairmoon.com.ar">
-    <img src="https://img.shields.io/badge/FlairMoon-e91e8c?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhdeveloper/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fghellbusch@gmail.com)
+[![Domit.app](https://img.shields.io/badge/Domit.app-0D7377?style=for-the-badge&logo=google-chrome&logoColor=white)](https://domit.app)
+[![FlairMoon](https://img.shields.io/badge/FlairMoon-e91e8c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flairmoon.com.ar)
 
 ---
 
-Desarrollador Full Stack con foco en arquitectura de software y proyectos de producción reales. Diseño y construyo sistemas completos — desde el modelo de dominio hasta el deploy — aplicando Arquitectura Hexagonal y DDD de forma consistente. Actualmente instructor Full Stack en Henry y desarrollador freelance con dos proyectos propios en producción.
+Desarrollador Full Stack con foco en **arquitectura de software** y construcción de sistemas end-to-end. Diseño y desarrollo aplicaciones completas — desde el modelo de dominio hasta el deploy — aplicando **Arquitectura Hexagonal y DDD** de forma consistente.
+
+Combino la práctica freelance con un rol activo como **Instructor Full Stack en Henry**, donde formo grupos de hasta 40 personas en el stack moderno.
 
 ---
 
 ### 🚀 Lo que hago
 
-- **Arquitectura de software:** Diseño sistemas con Arquitectura Hexagonal y DDD — domain en TypeScript puro, sin dependencias de frameworks, habilitando testing aislado y mantenibilidad a largo plazo.
-- **Backend:** APIs REST con NestJS, Prisma y PostgreSQL. Autenticación JWT, RBAC, transacciones atómicas, multi-tenancy aplicado arquitectónicamente.
+- **Arquitectura de software:** Diseño sistemas con Hexagonal Architecture y DDD — domain en TypeScript puro, sin dependencias de framework. Tests del dominio sin infraestructura.
+- **Backend:** APIs REST con NestJS, Prisma y PostgreSQL. Auth con JWT, RBAC, transacciones atómicas, multi-tenancy aplicado arquitectónicamente.
 - **Frontend:** Interfaces con Next.js 15 (ISR/SSR/SPA según el caso), React 19, TanStack Query, Zustand y Tailwind CSS.
 - **Monorepos:** Turborepo con paquetes compartidos (domain, database, ui) consumidos por múltiples apps.
-- **Instrucción técnica:** Instructor Full Stack en Henry desde sep 2024, grupos de hasta 40 participantes.
+- **Documentación técnica:** ADRs con contexto y alternativas evaluadas, no solo "qué" sino "por qué".
 
 ---
 
@@ -55,7 +45,6 @@ Desarrollador Full Stack con foco en arquitectura de software y proyectos de pro
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **Arquitectura & Tooling**
 
@@ -71,17 +60,29 @@ Desarrollador Full Stack con foco en arquitectura de software y proyectos de pro
 
 ### 🏗️ Proyectos destacados
 
-**[Domit](https://domit.app) — SaaS Inmobiliario Multi-tenant**
-Plataforma SaaS B2B para inmobiliarias. API NestJS con Arquitectura Hexagonal estricta, aislamiento de tenant aplicado arquitectónicamente, RBAC multi-rol, provisioning atómico y CI/CD con Vercel. Web pública ISR por tenant + backoffice SPA. 156 tests unitarios sin base de datos.
+#### [Domit](https://domit.app) — SaaS Inmobiliario Multi-tenant
+
+Plataforma SaaS B2B para inmobiliarias, en uso con primer cliente.
+API NestJS con Arquitectura Hexagonal estricta, aislamiento de tenant aplicado arquitectónicamente, RBAC multi-rol, provisioning atómico y CI/CD con Vercel preview environments. Web pública ISR por tenant + backoffice SPA. **156 tests unitarios** del dominio sin base de datos. **TypeScript beyond-strict** (`noUncheckedIndexedAccess` + `exactOptionalPropertyTypes`).
+
 `NestJS` `Prisma` `PostgreSQL` `Next.js 15` `TypeScript strict` `Turborepo` `Vercel`
 
-**[FlairMoon](https://flairmoon.com.ar) — E-Commerce de Producción**
-E-commerce full-stack para marca de maquillaje y skincare. Arquitectura Hexagonal + DDD, checkout atómico en transacción Prisma, cotización de envío en tiempo real via Correo Argentino, ISR para SEO, panel de administración completo. +200 tests. Deploy en Railway + Vercel.
+---
+
+#### [FlairMoon](https://flairmoon.com.ar) — Plataforma E-Commerce
+
+Plataforma e-commerce full-stack para marca de maquillaje y skincare.
+Arquitectura Hexagonal + DDD. Checkout atómico en transacción Prisma (validación de stock → orden → decremento → carrito). Sistema de variantes con stock por SKU. Integración con API de Correo Argentino. ISR para SEO. Panel admin completo con máquina de estados validada para órdenes. **+200 tests** pasando. **16 ADRs documentados**. Deploy: Railway + Vercel + Cloudinary.
+
 `NestJS` `Prisma` `Next.js 15` `React 19` `Turborepo` `Railway` `Vercel` `Cloudinary`
 
 ---
 
 ### 📬 Contacto
+
+- 📧 **Email:** [fghellbusch@gmail.com](mailto:fghellbusch@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/fhdeveloper](https://www.linkedin.com/in/fhdeveloper/)
+- 📍 **Ubicación:** Córdoba, Argentina · Disponible para roles 100% remotos
 
 - **Email:** fghellbusch@gmail.com
 - **LinkedIn:** [linkedin.com/in/fhdeveloper](https://www.linkedin.com/in/fhdeveloper/)
