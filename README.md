@@ -1,15 +1,14 @@
 # Hi, I'm Francisco Hellbusch 👋
 
-**Full Stack Developer · NestJS · Next.js · TypeScript · Clean Architecture + DDD**
+**Backend Developer · NestJS · TypeScript · Clean Architecture**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhdeveloper/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fghellbusch@gmail.com)
 [![Domit.app](https://img.shields.io/badge/Domit.app-0D7377?style=for-the-badge&logo=google-chrome&logoColor=white)](https://domit.app)
-[![FlairMoon](https://img.shields.io/badge/FlairMoon-e91e8c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flairmoon.com.ar)
 
 ---
 
-Desarrollador Full Stack con foco en **arquitectura de software** y construcción de sistemas end-to-end. Diseño y desarrollo aplicaciones completas — desde el modelo de dominio hasta el deploy — aplicando **Clean Architecture y DDD** de forma consistente.
+Desarrollador Backend con foco en **arquitectura de software** y construcción de sistemas end-to-end. Diseño y desarrollo aplicaciones completas — desde el modelo de dominio hasta el deploy — aplicando **Clean Architecture y DDD** de forma consistente.
 
 Combino la práctica freelance con un rol activo como **Instructor Full Stack en Henry**, donde formo grupos de hasta 40 personas en el stack moderno.
 
@@ -58,19 +57,6 @@ Combino la práctica freelance con un rol activo como **Instructor Full Stack en
 
 ---
 
-### 🏗️ Proyectos destacados
-
-#### [FlairMoon](https://flairmoon.com.ar) — Plataforma E-Commerce
-
-E-commerce full-stack en producción para una marca de cosmética y skincare argentina.
-**Clean Architecture + DDD** con dominio en TypeScript puro. Checkout atómico en transacción Prisma con validación optimista de stock vía `WHERE` condicional. Sistema de variantes con stock granular (SKU opcional). Máquina de estados validada para órdenes. Carrito anónimo persistido cross-session vía cookie. Integración con MiCorreo (Correo Argentino) para cotización de envío. Tienda pública con ISR (catálogo 5min, producto 10min) + panel admin completo. **300+ tests** (306 entre API, dominio y admin). **11 ADRs documentados**. Deploy: Railway + Vercel + Cloudinary.
-
-`NestJS` `Prisma` `Next.js 15` `React 19` `Turborepo` `Railway` `Vercel` `Cloudinary`
-
-🔗 [Código fuente](https://github.com/franHellbusch/flairmoon)
-
----
-
 #### [Domit](https://domit.app) — SaaS Inmobiliario Multi-tenant
 
 Plataforma SaaS B2B para inmobiliarias, en producción con primer cliente (Urcola Inmobiliaria).
@@ -86,4 +72,4 @@ API NestJS con **dominio en TypeScript puro** (sin imports de NestJS, Prisma ni 
 
 - 📧 **Email:** [fghellbusch@gmail.com](mailto:fghellbusch@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/fhdeveloper](https://www.linkedin.com/in/fhdeveloper/)
-- 📍 **Ubicación:** Córdoba, Argentina · Disponible para roles 100% remotos
+- 📍 **Ubicación:** Córdoba, Argentina · Disponible para roles remotos
